@@ -8,7 +8,7 @@ A smart LLM-powered app that solves engineering math problems with options for b
 
 ## 📄 Project Report
 
- Shared in the Repository..
+ Shared in the Repository AS PEproj2.pdf
 
 
 ---

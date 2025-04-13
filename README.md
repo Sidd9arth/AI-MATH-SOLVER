@@ -8,8 +8,8 @@ A smart LLM-powered app that solves engineering math problems with options for b
 
 ## 📄 Project Report
 
-📎 [View the Report (PDF)](https://chat.openai.com/share/96a3e370-1a2f-4e95-a172-769f32d57037)  
-_(Shared via ChatGPT)_
+ Shared in the Repository..
+
 
 ---
 

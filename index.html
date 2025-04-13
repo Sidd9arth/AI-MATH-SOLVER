@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Math Solver</title>
+</head>
+<body>
+  <h1>Ask a Math Question</h1>
+  <form method="POST" action="/">
+    <label for="question">Question:</label><br>
+    <input type="text" id="question" name="question"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  {% if result %}
+    <h2>Answer:</h2>
+    <p>{{ result }}</p>
+  {% endif %}
+</body>
+</html>

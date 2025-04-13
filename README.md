@@ -11,7 +11,10 @@ This project is a smart app that solves engineering math problems using large la
 
 
 
-Watch it here: [YouTube Video]([https://youtu.be/your-link](https://youtu.be/FdrAJt_cx1o?si=RU9GdoCJtD0TEF6Y))
+ 📽️ Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/FdrAJt_cx1o/0.jpg)](https://youtu.be/FdrAJt_cx1o?si=RU9GdoCJtD0TEF6Y)
+
 
 
 
